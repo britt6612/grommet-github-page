@@ -1,25 +1,23 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { Grommet, grommet, Box, Heading, Paragraph } from "grommet";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Grommet theme={grommet} full>
+      <Box
+        height="100%"
+        align="center"
+        justify="center"
+        background="papayawhip"
+      >
+        <Heading size="large" textAlign="center" color="burlywood">
+          My page rocks!
+        </Heading>
+        <Paragraph size="large" textAlign="center" color="cadetblue">
+          It's so easy to publish Grommet apps to GitHub Pages!!
+        </Paragraph>
+      </Box>
+    </Grommet>
   );
 }
 
