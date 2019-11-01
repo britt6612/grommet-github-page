@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/britt6612/grommet-github-page/static/css/main.34de6062.chunk.css",
+    "main.js": "/britt6612/grommet-github-page/static/js/main.e8155b42.chunk.js",
+    "main.js.map": "/britt6612/grommet-github-page/static/js/main.e8155b42.chunk.js.map",
+    "runtime-main.js": "/britt6612/grommet-github-page/static/js/runtime-main.4397fbd0.js",
+    "runtime-main.js.map": "/britt6612/grommet-github-page/static/js/runtime-main.4397fbd0.js.map",
+    "static/js/2.5a7400d6.chunk.js": "/britt6612/grommet-github-page/static/js/2.5a7400d6.chunk.js",
+    "static/js/2.5a7400d6.chunk.js.map": "/britt6612/grommet-github-page/static/js/2.5a7400d6.chunk.js.map",
+    "index.html": "/britt6612/grommet-github-page/index.html",
+    "precache-manifest.35b6efb00254427a5df7ab1d69d9b671.js": "/britt6612/grommet-github-page/precache-manifest.35b6efb00254427a5df7ab1d69d9b671.js",
+    "service-worker.js": "/britt6612/grommet-github-page/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/britt6612/grommet-github-page/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4397fbd0.js",
+    "static/js/2.5a7400d6.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.e8155b42.chunk.js"
+  ]
+}
