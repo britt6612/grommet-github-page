@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/britt6612/grommet-github-page/precache-manifest.35b6efb00254427a5df7ab1d69d9b671.js"
+  "/britt6612/grommet-github-page/precache-manifest.67b4413423f228cf8d5195b092a33f12.js"
 );
 
 self.addEventListener('message', (event) => {
