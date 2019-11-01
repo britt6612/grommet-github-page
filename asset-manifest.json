@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/britt6612/grommet-github-page/static/css/main.34de6062.chunk.css",
-    "main.js": "/britt6612/grommet-github-page/static/js/main.0651672d.chunk.js",
-    "main.js.map": "/britt6612/grommet-github-page/static/js/main.0651672d.chunk.js.map",
-    "runtime-main.js": "/britt6612/grommet-github-page/static/js/runtime-main.4397fbd0.js",
-    "runtime-main.js.map": "/britt6612/grommet-github-page/static/js/runtime-main.4397fbd0.js.map",
-    "static/js/2.5a7400d6.chunk.js": "/britt6612/grommet-github-page/static/js/2.5a7400d6.chunk.js",
-    "static/js/2.5a7400d6.chunk.js.map": "/britt6612/grommet-github-page/static/js/2.5a7400d6.chunk.js.map",
-    "index.html": "/britt6612/grommet-github-page/index.html",
-    "precache-manifest.67b4413423f228cf8d5195b092a33f12.js": "/britt6612/grommet-github-page/precache-manifest.67b4413423f228cf8d5195b092a33f12.js",
-    "service-worker.js": "/britt6612/grommet-github-page/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/britt6612/grommet-github-page/static/css/main.34de6062.chunk.css.map"
+    "main.css": "./static/css/main.34de6062.chunk.css",
+    "main.js": "./static/js/main.0651672d.chunk.js",
+    "main.js.map": "./static/js/main.0651672d.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.e9cee17f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.e9cee17f.js.map",
+    "static/js/2.6e543d4a.chunk.js": "./static/js/2.6e543d4a.chunk.js",
+    "static/js/2.6e543d4a.chunk.js.map": "./static/js/2.6e543d4a.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.74121e58e05560f84fa6b45b101c651f.js": "./precache-manifest.74121e58e05560f84fa6b45b101c651f.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "./static/css/main.34de6062.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.4397fbd0.js",
-    "static/js/2.5a7400d6.chunk.js",
+    "static/js/runtime-main.e9cee17f.js",
+    "static/js/2.6e543d4a.chunk.js",
     "static/css/main.34de6062.chunk.css",
     "static/js/main.0651672d.chunk.js"
   ]
